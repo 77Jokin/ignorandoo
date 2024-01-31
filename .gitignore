@@ -1,0 +1,9 @@
+# parte 1
+bin/*
+# parte 2
+config.json
+# parte 3
+libs/**/node_modules
+# parte 4
+src/**/*.class
+
